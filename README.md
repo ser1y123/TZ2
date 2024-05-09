@@ -1,5 +1,5 @@
 # JAVA CI/CD HOMEWORK
-This is the simple java MVN project with JUNIT. \
+This is the simple java MVN project with JUNIT. 
 
 ![example workflow](https://github.com/Leysnik/Java-homework/actions/workflows/maven.yml/badge.svg)
 ## Introduction

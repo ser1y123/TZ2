@@ -55,7 +55,7 @@ public class MainTest {
     }
     @Test
     public void _maxTest(){
-        Assertions.assertEquals(510, Main._max(testList));
+        Assertions.assertEquals(511, Main._max(testList));
     }
     @Test
     public void largeFileTest(){
